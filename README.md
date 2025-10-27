@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
+<h1 align="center">Hi 👋, I'm Hassan Alidroos</h1>
+
+- 👋 I'm a Mobile and Web developer.
+- 🏠 I live in Yemen - Mukalla.
