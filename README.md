@@ -1,11 +1,11 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:2563EB&height=160&text=Hassan%20Alidroos&fontSize=48&fontColor=f8fafc&fontAlignY=50&desc=Full-Stack%20%26%20Mobile%20Developer%20%E2%80%A2%20Mukalla%2C%20Yemen&descAlignY=72&descColor=bfdbfe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:2563EB&height=160&text=Hassan%20Alidroos&fontSize=48&fontColor=f8fafc&fontAlignY=50&desc=Full-Stack%20%26%20Mobile%20Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Building+mobile+apps+that+users+love+%F0%9F%93%B1;Delivering+web+solutions+that+scale+%F0%9F%8C%90;Designing+APIs+and+backends+that+last+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Building+mobile+apps+that+users+love+%7C+Creating+with+Flutter,+React+Native,+Android,+iOS+%7C+Open+Source+Contributor+%7C+Learning+Daily" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## Professional Summary
 
-Full-stack developer with a mobile-first mindset, specializing in cross-platform and native mobile applications — Flutter, React Native, Android, and iOS. Delivers complete product stacks: from polished mobile and web UIs to robust REST APIs and database architecture. Based in Mukalla, Yemen and available for remote work and collaboration globally.
+Full-stack developer with a mobile-first mindset, specializing in cross-platform and native mobile applications — Flutter, React Native, Android, and iOS. Delivers complete product stacks: from UI/UX to backend infrastructure and deployment.
 
 ---
 
@@ -78,29 +78,31 @@ Full-stack developer with a mobile-first mindset, specializing in cross-platform
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HsnAlidroos&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&icon_color=2563EB&text_color=374151&ring_color=2563EB" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HsnAlidroos&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&icon_color=2563EB&text_color=374151&ring=2563EB" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsnAlidroos&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&text_color=374151&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsnAlidroos&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&text_color=374151&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HsnAlidroos&theme=default&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=2563EB&fire=dc2626&currStreakLabel=1e3a5f&sideLabels=374151&dates=6b7280" />
+  <img src="https://streak-stats.demolab.com/?user=HsnAlidroos&theme=default&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=2563EB&fire=dc2626&currStreakLabel=1e3a5f&sideLabels=374151&dates=334155" />
 </p>
 
 ---
 
 ## Contact
 
-| Channel | Link |
-|---------|------|
-| 💼 LinkedIn | [linkedin.com/in/hassan-alidroos](https://linkedin.com/in/hsnalidroos) |
-| 📧 Email | hsnalidroos@gmail.com |
-| 🌍 Portfolio | hsnalidroos.dev |
+| Channel      | Link                                                          |
+|--------------|--------------------------------------------------------------|
+| 💼 LinkedIn  | [linkedin.com/in/hassan-alidroos](https://linkedin.com/in/hsnalidroos) |
+| 📧 Email     | hsnalidroos@gmail.com                                        |
+| 🌍 Portfolio | [hsnalidroos.dev](https://hsnalidroos.dev)                   |
+| 📱 WhatsApp  | [+967 778064402](https://wa.me/967778064402)                 |
+| X (Twitter)  | [@hsnalidroos](https://x.com/hsnalidroos)                   |
 
 ---
 
 <p align="center">
-  <sub>Full-Stack &amp; Mobile Developer — Mukalla, Yemen</sub><br/>
+  <sub>Full-Stack & Mobile Developer — Mukalla, Yemen</sub><br/>
   <sub>Open to remote work, freelance projects, and interesting collaborations</sub>
 </p>
 
