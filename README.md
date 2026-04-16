@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/56777427?v=4" alt="HsnAlidroos" width="120"/>
+  <img src="https://avatars.githubusercontent.com/u/179564360?v=4" alt="HsnAlidroos" width="120"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:2563EB&height=160&text=Hassan%20Alidroos&fontSize=48&fontColor=f8fafc&fontAlignY=50&desc=Full-Stack%20%26%20Mobile%20Developer&descSize=22&descAlign=50" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Building+mobile+apps+that+users+love+%F0%9F%92%95;Modern+productivity+in+a+mobile-first+world;Open+to+remote+work+and+side+projects+%F0%9F%8C%8D%F0%9F%92%AA" alt="Typing SVG" />
