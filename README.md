@@ -93,9 +93,9 @@ Full-stack developer with a mobile-first mindset, specializing in cross-platform
 
 | Channel | Link |
 |---------|------|
-| 💼 LinkedIn | [linkedin.com/in/hassan-alidroos](https://linkedin.com/in/hassan-alidroos) |
-| 📧 Email | hassan@example.com |
-| 🌍 Portfolio | Coming soon |
+| 💼 LinkedIn | [linkedin.com/in/hassan-alidroos](https://linkedin.com/in/hsnalidroos) |
+| 📧 Email | hsnalidroos@gmail.com |
+| 🌍 Portfolio | hsnalidroos.dev |
 
 ---
 
