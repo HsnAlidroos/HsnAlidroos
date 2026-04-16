@@ -1,11 +1,13 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:2563EB&height=160&text=Hassan%20Alidroos&fontSize=48&fontColor=f8fafc&fontAlignY=50&desc=Full-Stack%20%26%20Mobile%20Developer" />
+  <img src="https://avatars.githubusercontent.com/u/56777427?v=4" alt="HsnAlidroos" width="120"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Building+mobile+apps+that+users+love+%7C+Creating+with+Flutter,+React+Native,+Android,+iOS+%7C+Open+Source+Contributor+%7C+Learning+Daily" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3a5f,100:2563EB&height=160&text=Hassan%20Alidroos&fontSize=48&fontColor=f8fafc&fontAlignY=50&desc=Full-Stack%20%26%20Mobile%20Developer&descSize=22&descAlign=50" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Building+mobile+apps+that+users+love+%F0%9F%92%95;Modern+productivity+in+a+mobile-first+world;Open+to+remote+work+and+side+projects+%F0%9F%8C%8D%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +22,7 @@
 
 ## Professional Summary
 
-Full-stack developer with a mobile-first mindset, specializing in cross-platform and native mobile applications — Flutter, React Native, Android, and iOS. Delivers complete product stacks: from UI/UX to backend infrastructure and deployment.
+Full-stack developer with a mobile-first mindset, specializing in cross-platform and native mobile applications — Flutter, React Native, Android, and iOS. Delivers complete product stacks: from design and prototyping to deployment, CI/CD, and long-term support; merging engineering rigor with user empathy.
 
 ---
 
@@ -78,13 +80,13 @@ Full-stack developer with a mobile-first mindset, specializing in cross-platform
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HsnAlidroos&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&icon_color=2563EB&text_color=374151&ring=2563EB" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HsnAlidroos&show_icons=true&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&icon_color=2563EB&text_color=374151&ring=2563EB" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsnAlidroos&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&text_color=374151&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HsnAlidroos&layout=compact&theme=default&hide_border=true&bg_color=f8fafc&title_color=1e3a5f&text_color=374151&langs_count=8" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HsnAlidroos&theme=default&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=2563EB&fire=dc2626&currStreakLabel=1e3a5f&sideLabels=374151&dates=334155" />
+  <img src="https://streak-stats.demolab.com/?user=HsnAlidroos&theme=default&hide_border=true&background=f8fafc&stroke=e2e8f0&ring=2563EB&fire=dc2626&currStreakLabel=1e3a5f&sideLabels=374151&dates=555555" alt="GitHub Streak" />
 </p>
 
 ---
